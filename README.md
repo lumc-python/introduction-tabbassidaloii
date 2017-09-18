@@ -18,13 +18,12 @@ We are going to make a repeating DNA sequence and extract some subsequences from
 
 **Hint**: All elements in a set are unique.
 
-# 3. Boolean comparison
+# 3. FizzBuzz
 
-Try to guess the outcome of the following statements:
-
-    2 * 3 > 4
-    2 * (3 > 4)
-    2 * (4 > 3)
+Write a program that prints the numbers from 1 to 100.
+But for multiples of three print "Fizz" instead of the
+number and for the multiples of five print “Buzz”.
+For numbers which are multiples of both three and five print “FizzBuzz”.
 
 # 4. Combining lists
 
@@ -54,10 +53,3 @@ Modify your function to use a dictionary with substring counts.
 - Have the function return the dictionary.
 - Add a docstring to the function.
 - Use the function to print k-mer counts for some strings.
-
-# 7.FizzBuzz
-
-Write a program that prints the numbers from 1 to 100.
-But for multiples of three print "Fizz" instead of the
-number and for the multiples of five print “Buzz”.
-For numbers which are multiples of both three and five print “FizzBuzz”.
